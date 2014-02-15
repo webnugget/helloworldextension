@@ -1,0 +1,5 @@
+plugin.tx_helloworldbeispiel.view {
+	templateRootPath = EXT:helloworldbeispiel/Resources/Private/Templates/
+	partialRootPath = EXT:helloworldbeispiel/Resources/Private/Partials/
+	layoutRootPath = EXT:helloworldbeispiel/Resources/Private/Layouts/
+}

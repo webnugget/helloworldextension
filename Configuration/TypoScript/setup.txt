@@ -1,0 +1,5 @@
+plugin.tx_helloworldbeispiel.view {
+	templateRootPath = {$plugin.tx_helloworldbeispiel.view.templateRootPath}
+	partialRootPath = {$plugin.tx_helloworldbeispiel.view.partialRootPath}
+	layoutRootPath = {$plugin.tx_helloworldbeispiel.view.layoutRootPath}
+}
